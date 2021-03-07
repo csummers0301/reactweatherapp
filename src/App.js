@@ -2,9 +2,6 @@ import { StrictMode } from "react";
 import ReactDOM from "react-dom";
 import Search from "./Search";
 import Date from "./Date";
-import City from "./City";
-import Temperature from "./Temperature";
-import Icon from "./Icon";
 import "./App.css";
 
 function App() {
